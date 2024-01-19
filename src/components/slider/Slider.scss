@@ -1,0 +1,32 @@
+@import '../../index.scss';
+
+// .hero-slider{
+//     // width: 100%;
+//     &-item{
+//         height: 280px;
+//         // .slider {
+//         //     margin: 0;
+//         //     padding: 0;
+//         // }
+//         // width: 99%;
+//         // scroll-behavior: auto;
+//         img{
+//             height: 100%;
+//             width: 100%;
+//             object-fit: cover;
+//         }
+//     }
+// }
+
+.hero-slider{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    &-item{
+        height: 280px;
+        img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+}

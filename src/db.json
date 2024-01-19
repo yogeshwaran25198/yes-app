@@ -1,0 +1,270 @@
+{
+    "categories": [
+        {"id":1,"name":"shirts","image":"https://i.imgur.com/QkIa5tT.jpeg","creationAt":"2024-01-11T21:38:36.000Z","updatedAt":"2024-01-12T05:08:17.000Z"},
+        {"id":2,"name":"Electronics","image":"https://i.imgur.com/ZANVnHE.jpeg","creationAt":"2024-01-11T21:38:36.000Z","updatedAt":"2024-01-11T21:38:36.000Z"},
+        {"id":3,"name":"Furniture","image":"https://i.imgur.com/Qphac99.jpeg","creationAt":"2024-01-11T21:38:36.000Z","updatedAt":"2024-01-11T21:38:36.000Z"},
+        {"id":4,"name":"Shoes","image":"https://i.imgur.com/qNOjJje.jpeg","creationAt":"2024-01-11T21:38:36.000Z","updatedAt":"2024-01-11T21:38:36.000Z"},
+        {"id":5,"name":"Miscellaneous","image":"https://i.imgur.com/BG8J0Fj.jpg","creationAt":"2024-01-11T21:38:36.000Z","updatedAt":"2024-01-11T21:38:36.000Z"},
+        {"id":6,"name":"New Category","image":"https://placeimg.com/640/480/any","creationAt":"2024-01-11T21:42:11.000Z","updatedAt":"2024-01-11T21:42:11.000Z"},
+        {"id":7,"name":"cellphone","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-11T21:49:22.000Z","updatedAt":"2024-01-11T21:49:22.000Z"},
+        {"id":8,"name":"Un nuevo nombre","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-11T21:50:28.000Z","updatedAt":"2024-01-11T22:49:43.000Z"},
+        {"id":9,"name":"cellphone","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-11T21:50:48.000Z","updatedAt":"2024-01-11T21:50:48.000Z"},
+        {"id":10,"name":"Nueva categoría","image":"https://placeimg.com/640/480/any","creationAt":"2024-01-11T22:14:14.000Z","updatedAt":"2024-01-11T22:14:14.000Z"},
+        {"id":12,"name":"Pets","image":"https://s1.eestatic.com/2020/08/26/curiosidades/mascotas/mascotas-perros-mascotas_515959375_158488466_1024x576.jpg","creationAt":"2024-01-12T01:25:53.000Z","updatedAt":"2024-01-12T01:25:53.000Z"},
+        {"id":13,"name":"dog","image":"https://humanepro.org/sites/default/files/styles/article_new/public/images/post/paw-toolkit-welcome-image.jpg?itok=NFe7EOwR","creationAt":"2024-01-12T01:28:22.000Z","updatedAt":"2024-01-12T01:28:22.000Z"},
+        {"id":14,"name":"Kit del Buki","image":"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81WJCPIgTuL._AC_UY1000_.jpg","creationAt":"2024-01-12T01:30:00.000Z","updatedAt":"2024-01-12T01:30:00.000Z"},
+        {"id":15,"name":"FMLN FOREVER","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_FMLN.jpg/1200px-Flag_of_FMLN.jpg","creationAt":"2024-01-12T01:32:08.000Z","updatedAt":"2024-01-12T01:32:08.000Z"},
+        {"id":16,"name":"Comida","image":"https://res.cloudinary.com/doi7ukubm/image/upload/f_auto,q_auto/nkqjtth6822iuy2s9ctb","creationAt":"2024-01-12T01:33:58.000Z","updatedAt":"2024-01-12T01:33:58.000Z"},
+        {"id":17,"name":"DESK","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-12T01:54:55.000Z","updatedAt":"2024-01-12T01:54:55.000Z"},
+        {"id":18,"name":"DESK","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-12T01:55:10.000Z","updatedAt":"2024-01-12T01:55:10.000Z"},
+        {"id":19,"name":"DESK","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-12T01:55:28.000Z","updatedAt":"2024-01-12T01:55:28.000Z"},
+        {"id":20,"name":"DESK","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-12T01:55:56.000Z","updatedAt":"2024-01-12T01:55:56.000Z"},
+        {"id":21,"name":"DESK","image":"https://api.lorem.space/image/book?w=150&h=220","creationAt":"2024-01-12T01:56:32.000Z","updatedAt":"2024-01-12T01:56:32.000Z"},
+        {"id":22,"name":"New Category","image":"https://placeimg.com/640/480/any","creationAt":"2024-01-12T05:08:09.000Z","updatedAt":"2024-01-12T05:08:09.000Z"}
+    ],
+    "products": [
+        {
+          "id": 92,
+          "title": "New Book E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://placehold.co/800x800/D95030/FFF\"]"
+          ],
+          "creationAt": "2024-01-12T04:51:21.000Z",
+          "updatedAt": "2024-01-12T07:12:20.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 93,
+          "title": "New Book E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/1279.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:51:21.000Z",
+          "updatedAt": "2024-01-12T04:51:21.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 94,
+          "title": "New Book E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/1279.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:51:22.000Z",
+          "updatedAt": "2024-01-12T04:51:22.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 95,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:52:01.000Z",
+          "updatedAt": "2024-01-12T04:52:01.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 96,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:52:03.000Z",
+          "updatedAt": "2024-01-12T04:52:03.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 97,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:52:03.000Z",
+          "updatedAt": "2024-01-12T04:52:03.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 98,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:53:34.000Z",
+          "updatedAt": "2024-01-12T04:53:34.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 99,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:53:34.000Z",
+          "updatedAt": "2024-01-12T04:53:34.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 100,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:53:35.000Z",
+          "updatedAt": "2024-01-12T04:53:35.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 101,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:53:36.000Z",
+          "updatedAt": "2024-01-12T04:53:36.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 102,
+          "title": "Old Book in E-Liybrary",
+          "price": 10,
+          "description": "Shop items by Sarothdesigns located in Bristol, Pennsylvania. Smooth shipping! Has a history of shipping on time with tracking.",
+          "images": [
+            "[\"https://api.escuelajs.co/api/v1/files/2314.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T04:53:36.000Z",
+          "updatedAt": "2024-01-12T04:53:36.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 106,
+          "title": "this is title ",
+          "price": 279283,
+          "description": "this is description",
+          "images": [
+            "[\"https://i.imgur.com/cHddUCu.jpeg",
+            "https://i.imgur.com/CFOjAgK.jpeg",
+            "https://i.imgur.com/wbIMMme.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T06:00:09.000Z",
+          "updatedAt": "2024-01-12T06:00:09.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        },
+        {
+          "id": 108,
+          "title": "this is title ",
+          "price": 230,
+          "description": "this is description",
+          "images": [
+            "[\"https://i.imgur.com/mp3rUty.jpeg",
+            "https://i.imgur.com/JQRGIc2.jpeg\"]"
+          ],
+          "creationAt": "2024-01-12T06:38:21.000Z",
+          "updatedAt": "2024-01-12T06:38:21.000Z",
+          "category": {
+            "id": 1,
+            "name": "change",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-01-11T21:38:36.000Z",
+            "updatedAt": "2024-01-12T05:08:17.000Z"
+          }
+        }
+    ]
+}
+
+
+
+
+
+
